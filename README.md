@@ -40,6 +40,7 @@ Usage
 
     Run the script to automatically detect and capture test questions.
     The best answer will appear as a fullscreen overlay.
+    Hover over the start of the question for a couple seconds. (If you don't want it to do anything, keep your mouse away from words)
 
 
 ![image](https://github.com/user-attachments/assets/f150732e-5e7f-4837-9526-0d34e2f035c7)
